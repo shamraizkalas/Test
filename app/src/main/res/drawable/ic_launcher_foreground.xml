@@ -1,0 +1,72 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Top ancestor root node -->
+    <path
+        android:pathData="M54,28 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0"
+        android:fillColor="#F6C561" />
+
+    <!-- Main trunk and tree branches -->
+    <path
+        android:pathData="M54,34 L54,52
+                          M54,44 C42,44 34,48 30,56
+                          M54,44 C66,44 74,48 78,56
+                          M30,56 L30,68
+                          M78,56 L78,68
+                          M54,52 L54,68
+                          M30,62 C22,62 18,66 16,74
+                          M30,62 C38,62 42,66 44,74
+                          M78,62 C70,62 66,66 64,74
+                          M78,62 C86,62 90,66 92,74"
+        android:strokeWidth="2.8"
+        android:strokeColor="#F6C561"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Generation 2 nodes -->
+    <path
+        android:pathData="M30,56 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#FFDF88" />
+    <path
+        android:pathData="M54,52 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#FFDF88" />
+    <path
+        android:pathData="M78,56 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#FFDF88" />
+
+    <!-- Generation 3/Leaf nodes -->
+    <path
+        android:pathData="M16,74 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFE8A3" />
+    <path
+        android:pathData="M30,68 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFE8A3" />
+    <path
+        android:pathData="M44,74 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFE8A3" />
+    <path
+        android:pathData="M54,68 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFE8A3" />
+    <path
+        android:pathData="M64,74 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFE8A3" />
+    <path
+        android:pathData="M78,68 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFE8A3" />
+    <path
+        android:pathData="M92,74 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0"
+        android:fillColor="#FFE8A3" />
+
+    <!-- Bottom root base arch -->
+    <path
+        android:pathData="M44,82 C49,79 59,79 64,82"
+        android:strokeWidth="2.2"
+        android:strokeColor="#F6C561"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+</vector>

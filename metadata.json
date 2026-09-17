@@ -1,0 +1,6 @@
+{
+  "name": "شجرہ نسب",
+  "description": "شجرہ نسب خاندانی درخت، تصویری پی ڈی ایف برآمد، تفصیلی معلومات، تلاش اور ایڈمن کنٹرول",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
